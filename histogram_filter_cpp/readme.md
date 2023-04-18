@@ -1,1 +1,1 @@
-### Contains C++ code for histogram filter in 1-D.
+### Contains C++ code for histogram filter in 2D.
